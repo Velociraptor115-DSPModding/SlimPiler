@@ -1,0 +1,7 @@
+{
+  "name": "SlimPiler",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/Velociraptor115-DSPModding/SlimPiler",
+  "description": "Makes the piler smaller to fit on a single belt-width and within grid lengths",
+  "dependencies": [ "xiaoye97-BepInEx-5.4.17" ]
+}
